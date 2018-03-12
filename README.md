@@ -1,81 +1,55 @@
-Aurora Template - [Demo](http://dominikserafin.github.io/aurora-template)
-===============
+As a part of the progress measure the project defines 4 programmer’s proficiency levels (PPL).
+Description and qualification for obtaining a PPL are mentioned herebelow:
+● Programmer's Proficiency Level 0 (Student to be called as ‘Level 0’ programmer)
+○ Prerequisite
+■ Student has basic Know-How of computer programming
+○ To be awarded to any student who has taken and cleared any programming
+course
 
-### A free HTML5 template for personal and commercial usage.
+● Programmer's Proficiency Level 1 (Student to be called as ‘Level 1’ programmer)
+○ Prerequisite
+■ Must have qualified Level 0
+○ To be awarded to any student who has following skills
+■ Does proper indentation while writing a computer program
+■ Has typing speed of minimum 30 wpm
+■ Has solved at least 50 intermediate level competitive / logical problems
+■ Has above average aptitude(Level 1)
+■ Knows basic algorithms viz.
+● Sorting
+● Searching
+● etc.
 
-It was created for my [personal portfolio](http://serafin.io/?utm_source=Aurora-Template&utm_medium=GitHub-Readme&utm_campaign=Freebie) (but I've never used it) and now I'm releasing it for free. Edit and use this template as you want, except selling or crediting it as your own.
+● Programmer's Proficiency Level 2 (Student to be called as ‘Level 2’ programmer)
+○ Prerequisite
+■ Must have qualified Level 1
+○ To be awarded to any student who has following skills
+■ Has typing speed of minimum 40 wpm
+■ Knows basic system troubleshooting
+■ Has good idea of Computer Networking
+■ Has good idea of DBMS
+■ Knows advanced algorithms viz.
+● Trees
+● Graph
+● etc.
+■ Has good idea of OOP
 
-
-#### Share Template
-
-- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fserafin.io%2Faurora-template%2F&t=Free%20Aurora%20Template)
-- [Share on Twitter](https://twitter.com/intent/tweet?source=http%3A%2F%2Fserafin.io%2Faurora-template%2F&text=Free%20Aurora%20Template:%20http%3A%2F%2Fserafin.io%2Faurora-template%2F&via=SerafinDominik)
-- [Share on Google+](https://plus.google.com/share?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F)
-- [Post to Tumblr](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fserafin.io%2Faurora-template%2F&t=Free%20Aurora%20Template&s=)
-- [Pin It](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fserafin.io%2Faurora-template%2F&description=Beautiful%20free%20HTML5%20template%20created%20by%20Dominik%20Serafin.)
-
-
-
-#### Follow Me
-
-- [Follow me on Twitter](https://twitter.com/SerafinDominik)
-- [Follow me on Dribbble](https://dribbble.com/DominikSerafin)
-- [Follow me on Behance](https://www.behance.net/dominikserafin)
-
-
-
-# Features
-
-- Animated Background Gradient
-- Cool Project Showcase
-- Contact Form in PHP
-- Responsive, Fast and Mobile Friendly
-- Vector Icons and Font Awesome
-- Sass and BEM Modular Stylesheet (with SourceMaps)
-
-
-
-# FAQ & Usage
-
-#### How can I change the e-mail address where contact form should send messages?
-
-Just edit line 55 in /php/contact_form.php
-
-```
-    $to_email = "mail@example.com";
-```
-
-#### Contact form doesn't work :(
-
-Make sure your server is able to execute PHP scripts and you've set a valid e-mail address.
-
-
-
-#### How to edit stylesheets?
-
-Although it isn't recommend you can directly edit /style/css/global.css or overwrite it with your styles.
-
-If you know Sass and Gulp you shouldn't have a problem with editing provided stylesheets.
-
-
-
-#### How to edit favicon?
-
-Just use [Real Favicon Generator](http://realfavicongenerator.net/) and overwrite current favicon.
-
-
-#### Why do you have a commit titled "initial files ass"?
-
-It was meant to be "initial files add", but unfortunate typo is an unfortunate typo...
-
-
-# Support
-
-I'm busy most of the time so I can't provide extensive personal support. The code isn't that complicated, you probably shouldn't have any problems with it. If you do then please fill in issue and I'll try to help you at my free time.
-
-
-
-# Contributing
-
-If you've spotted a bug or you want to help in any way then please contribute by pull request or by filling an issue.
-
+■ Has developed at least one good Web App or Mobile App
+■ Has solved at least 100 competitive / logical problems
+■ Knows Linux basics
+■ Has a good aptitude (Level 2)
+■ Has proficiency with GitHub or similar platform.
+■ Has shown sincerity / dedication in earlier assigned projects.
+● Programmer's Proficiency Level 3 (Student to be called as ‘Level 3’ programmer)
+○ Prerequisite
+■ Must have qualified Level 2
+○ This is ultimate Level
+○ Criterion for awarding ‘Level 3’ should be decided by a panel of experts and the
+same should be updated from time to time.
+○ Current suggestions to award this level to any student are listed below
+■ Student should have developed a fully functioning Web App, as well as a
+Mobile App
+● Preferably using cutting edge technologies
+● These apps should be actually deployed on a proper platform
+■ Student should be an advanced user of Linux Operating System
+■ Student should have good idea of server security concepts
+■ Student should have good idea of setting up clusters and cloud
